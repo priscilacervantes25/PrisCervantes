@@ -23,6 +23,9 @@ Fast learner, eager about learning and growing in the field of data analytics an
 Until now, I haven’t t formally worked in something of my career, but right now i´m working as Sales Officer, representing an Australian College here in Mexico. I have been fully dedicated to
 my studies until last semester, so i´m new in the working industry. Some of my backround, I briefly worked as an assistant in a tax accounting family firm, performing basic tasks.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilacervantes25&layout=compact&theme=dark)
+
+
 
 📥How to reach me: priscervantes23@gmail.com
 
