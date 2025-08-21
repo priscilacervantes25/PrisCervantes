@@ -25,7 +25,9 @@ my studies until last semester, so i´m new in the working industry. Some of my 
 
 ## 📊School Proyects
 
-(https://github.com/priscilacervantes25/EstOpt_examen2)
+Some repos:
+[Proyect1](https://github.com/priscilacervantes25/EstOpt_examen2)
+[Proyect2](https://github.com/priscilacervantes25/ProyectoAEM)
 
 
 <p>
