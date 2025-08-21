@@ -25,6 +25,21 @@ my studies until last semester, so i´m new in the working industry. Some of my 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilacervantes25&layout=compact&theme=dark)
 
+![Regresión 60%](https://img.shields.io/badge/Regresión-60%25-blue)
+![Clasificación 40%](https://img.shields.io/badge/Clasificación-40%25-green)
+
+
+## 📊 Proyectos realizados
+<p>
+  <b>Regresión:</b> 60%<br>
+  <progress value="60" max="100"></progress>
+</p>
+<p>
+  <b>Clasificación:</b> 40%<br>
+  <progress value="40" max="100"></progress>
+</p>
+
+
 
 
 📥How to reach me: priscervantes23@gmail.com
