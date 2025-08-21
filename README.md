@@ -24,6 +24,10 @@ Until now, I haven’t t formally worked in something of my career, but right no
 my studies until last semester, so i´m new in the working industry. Some of my backround, I briefly worked as an assistant in a tax accounting family firm, performing basic tasks.
 
 ## 📊School Proyects
+
+(https://github.com/priscilacervantes25/EstOpt_examen2)
+
+
 <p>
   <b>Regresión:</b> 60%<br>
   <progress value="60" max="100"></progress>
