@@ -1,6 +1,7 @@
                                       Hello, i´m Priscila Cervantes
 # 🚀 About Me
-I´m a 4th semester Data Science Engineering Student. 
+I´m a 5th semester Data Science Engineering Student in [ITESO](https://www.iteso.mx/)
+
 Skilled in basic concepts and practial experience through individual and team projects, applying classroom knowledge to solve problems of interest. 
 Fast learner, eager about learning and growing in the field of data analytics and machine learning.
 
@@ -22,4 +23,6 @@ Fast learner, eager about learning and growing in the field of data analytics an
 Until now, I haven’t t formally worked in something of my career, but right now i´m working as Sales Officer, representing an Australian College here in Mexico. I have been fully dedicated to
 my studies until last semester, so i´m new in the working industry. Some of my backround, I briefly worked as an assistant in a tax accounting family firm, performing basic tasks.
 
+
+📥How to reach me: priscervantes23@gmail.com
 
