@@ -42,11 +42,9 @@ Some repos:
 ![Regresión 60%](https://img.shields.io/badge/Regresión-60%25-blue)
 ![Clasificación 40%](https://img.shields.io/badge/Clasificación-40%25-green)
 
+
+---
 My Followers on Github: ![GitHub followers](https://img.shields.io/github/followers/priscilacervantes25?style=social)
-
-
-
-
 
 
 
